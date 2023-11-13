@@ -1,4 +1,4 @@
-# Bioinformatics Course Coding Assignments
+# Bioinformatics Course Programming Assignments
 
 ## [HW 1 - Semi-Global Alignment](https://github.com/arminZolfaghari/Bioinformatics-Course-Assignments/tree/main/HW%201%20-%20Semi-Global%20Alignment)
 In this assignment, I implemented a ```Semi-Global Alignment``` from scratch. I used ```PAM250 matrix``` for scoring ([PAM250](https://swift.cmbi.umcn.nl/teach/aainfo/pam250.shtml)). 
